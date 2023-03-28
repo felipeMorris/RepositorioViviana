@@ -1,0 +1,9 @@
+com\example\demo\DemoApplication.class
+com\example\demo\Servicios\servicioUsuarios.class
+com\example\demo\Entidades\producto.class
+com\example\demo\Controlador\ControladorUsuarios.class
+com\example\demo\SumarNumeros.class
+com\example\demo\Controlador\controladorproducto.class
+com\example\demo\Servicios\servicioproducto.class
+com\example\demo\Entidades\Usuario.class
+com\example\demo\ServletInitializer.class
